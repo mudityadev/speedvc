@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548350272312",
+    "project_id": "speedvs-dev",
+    "storage_bucket": "speedvs-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548350272312:android:1a849859128d1b79c397cd",
+        "android_client_info": {
+          "package_name": "com.example.speedvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548350272312-23pcllku8cqok8inanq8ntafs0uhivdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speedvc",
+            "certificate_hash": "f0909a2098a00700641211680a401988ffb2fb29"
+          }
+        },
+        {
+          "client_id": "548350272312-bi1nt9av49qvj6gnddfor2v5b9urv4tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX6Vhq2tKodMFPPsDmjix0fAPIHREts_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548350272312-bi1nt9av49qvj6gnddfor2v5b9urv4tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
